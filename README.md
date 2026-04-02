@@ -31,3 +31,13 @@ https://finance-tracker-backend-4-veya.onrender.com
 ---
 
 ## 📁 Project Structure
+src/
+│
+├── controllers/ # Request handling logic
+├── models/ # Database schemas
+├── routes/ # API routes
+├── services/ # Business logic (dashboard)
+├── middleware/ # Auth & role-based access
+├── config/ # Configuration files
+├── utils/ # Utility functions
+└── app.js # Entry point
