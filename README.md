@@ -7,7 +7,12 @@ A scalable backend system for managing financial transactions with JWT authentic
 ## 🌐 Live API
 
 https://finance-tracker-backend-4-veya.onrender.com
+## 📬 Sample Endpoints
 
+- POST /api/auth/register
+- POST /api/auth/login
+- GET /api/transactions
+- GET /api/dashboard
 ---
 
 ## 📌 Features
